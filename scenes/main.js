@@ -22,7 +22,7 @@ addLevel([
   '  @ ',
   'xxxx'
   ], {
-  width: 50,
+  width: 60,
   height: 50,
   'x' : [sprite('ground'), solid()],
   '@' : [sprite('enemy'), body(), 'dangerous']
